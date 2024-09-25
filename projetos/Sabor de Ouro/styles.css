@@ -1,0 +1,32 @@
+body{background-color: #31572c;}
+.name{background-color: #fca311;
+height: 200px;
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;}
+.principal{background-color: #fcbf49;
+height: 500px;
+width: 100%;}
+.rodape{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}
+.tabela{
+    height: 200px;
+    width: 500px;
+    background-color: #fca311;
+    border-radius: 100px;
+}
+.formulario{
+    height: 200px;
+    width: 500px;
+    background-color: #fca311;
+    border-radius: 100px;
+}
+.menu{background-color: #fca311;
+    height: 200px;
+    width: 100%;}
